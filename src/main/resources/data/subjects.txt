@@ -1,0 +1,7 @@
+S001|Mathematics|Math|Algebra, Geometry, Calculus, Statistics|2026-01-15
+S002|Physics|Science|Mechanics, Thermodynamics, Electricity|2026-01-15
+S003|Chemistry|Science|Organic, Inorganic, Physical Chemistry|2026-01-15
+S004|Biology|Science|Botany, Zoology, Genetics|2026-01-15
+S005|Computer Science|ICT|Programming, Web Development, Database|2026-01-15
+S006|English|Language|Grammar, Literature, Writing|2026-01-15
+S007|History|Humanities|World History, Local History|2026-01-15

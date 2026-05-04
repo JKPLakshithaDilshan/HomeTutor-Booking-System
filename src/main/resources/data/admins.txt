@@ -1,0 +1,2 @@
+A001|Admin User|admin@tutorsync.com|admin123|ADMIN|2026-01-01
+A002|Super Administrator|superadmin@tutorsync.com|superadmin123|SUPER_ADMIN|2026-01-01

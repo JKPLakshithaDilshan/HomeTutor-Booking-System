@@ -1,0 +1,9 @@
+U001|John Student|john@email.com|pass123|STUDENT|
+U002|Jane Doe|jane@email.com|pass456|STUDENT|
+U003|Michael Chen|michael@email.com|pass789|STUDENT|
+U004|Sarah Williams|sarah@email.com|pass101|STUDENT|
+U005|David Brown|david@email.com|pass202|STUDENT|
+UFA8189F8|Emma Watson|emma.watson@email.com|studentpass123|STUDENT|
+U8032EEB0|J.K.P Lakshitha Dilshan|info.jkplakshitha@gmail.com|admin123|STUDENT|
+U9A511DDF|aluth|aluth@gmail.com|1234|STUDENT|
+U9AEAC8C6|naviduuu|navidu@email.com|navidu|STUDENT|10

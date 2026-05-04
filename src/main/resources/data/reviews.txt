@@ -1,0 +1,5 @@
+R002|U004|T001|4|Good session, could improve pace|2026-04-24
+R003|U002|T002|5|Amazing teaching style, highly recommended|2026-04-24
+R004|U003|T003|5|Outstanding knowledge in ICT, very professional|2026-04-25
+R005|U005|T004|4|Good session but slightly rushed|2026-04-20
+R001|U001|T001|4|Excellent tutor! Much better than before. Highly recommended.
